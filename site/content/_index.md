@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Be awesome in Excel and Google Sheets"
+subtitle: Tips & tricks + programming in Excel(VBA) & Google Apps Scripts
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
